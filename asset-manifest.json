@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reacttrippy/static/css/main.786c6cee.css",
+    "main.js": "/reacttrippy/static/js/main.d56a12af.js",
+    "static/media/travel (5).jpg": "/reacttrippy/static/media/travel (5).79351a1219f06accaac3.jpg",
+    "static/media/travel (4).jpg": "/reacttrippy/static/media/travel (4).cf0e6a9a295df424ebeb.jpg",
+    "static/media/travel (2).jpg": "/reacttrippy/static/media/travel (2).7b814acfe944d1954a09.jpg",
+    "static/media/travel (7).jpg": "/reacttrippy/static/media/travel (7).83758f716ed6d1b61754.jpg",
+    "static/media/travel (3).jpg": "/reacttrippy/static/media/travel (3).5d067f1b0ef60bc8c4c1.jpg",
+    "static/media/travel (6).jpg": "/reacttrippy/static/media/travel (6).0f8ad492e360e2def2d1.jpg",
+    "static/media/travel (1).jpg": "/reacttrippy/static/media/travel (1).0c42b13c06aa638508fc.jpg",
+    "index.html": "/reacttrippy/index.html",
+    "main.786c6cee.css.map": "/reacttrippy/static/css/main.786c6cee.css.map",
+    "main.d56a12af.js.map": "/reacttrippy/static/js/main.d56a12af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.786c6cee.css",
+    "static/js/main.d56a12af.js"
+  ]
+}
